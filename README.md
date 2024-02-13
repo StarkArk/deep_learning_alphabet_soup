@@ -74,8 +74,10 @@ model obtained the vast majority of its improvement over previous trials. Accura
   
 The predictive model accuracy is 80.2% with an information loss of 48.3%. This exceeds the benchmark of 75% set for the project.
 
-## References
-
+## References  
+  
+IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links  
+  
 Data for this project was provided by edX Boot Camps LLC.
   
 
