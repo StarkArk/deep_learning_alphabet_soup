@@ -30,7 +30,7 @@ Data Columns:
   
 #### Input: 3 Layers - Input Layer(44 nodes), Deep Layer(10 nodes), and an Output Layer
   
-[trial model 1](https://github.com/StarkArk/deep_learning_alphabet_soup/blob/main/Images/Trial1_Model.PNG)
+![trial model 1](Images/Trial1_Model.PNG)
   
 #### Output: 
   
@@ -39,11 +39,12 @@ Data Columns:
 ### 2nd Trial - Optimizing the Model  
   
 #### Input: Varied Layers, Nodes, and Activations  
-
+  
+  
 **Utilizing the Keras_Tuner python library**  
   
-[trial model 2](https://github.com/StarkArk/deep_learning_alphabet_soup/blob/main/Images/Trial2_Model.PNG)
-
+![trial model 2](Images/Trial2_Model.PNG)  
+  
 #### Output:   
   
 **Accuracy: 73.0%    Loss: 55.2%**  
@@ -51,6 +52,14 @@ Data Columns:
 ### 3rd Trial - Better and more Optimized  
   
 #### Input: Added back a Column of Data -> 'NAME, 5 Layers - Input Layer(842 nodes), 3 Deep Layers(80/40/20 Nodes), Output Layer  
+  
+![trial model 3](Images/Trial3_Model.PNG)  
+  
+#### Output:  
+  
+**Accuracy: 80.2%    Loss: 48.3%**  
+  
+## Discussion
   
   
 
