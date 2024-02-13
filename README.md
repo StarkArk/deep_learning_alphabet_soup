@@ -12,7 +12,8 @@ In three trials the predictive model was able to exceed the benchmark set for th
 ## Data
 
 [MetaData Site Link](https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv) 
-[Resources Folder Copy of Data](https://github.com/StarkArk/deep_learning_alphabet_soup/tree/main/Resources)
+
+[Resources Folder, CSV file](https://github.com/StarkArk/deep_learning_alphabet_soup/tree/main/Resources)
 
 Data Columns:
 - EIN: Employer Identification Number, IRS Business Indentifier
