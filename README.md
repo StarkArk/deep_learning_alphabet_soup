@@ -51,13 +51,13 @@ Data Columns:
   
 ### 3rd Trial - Better and more Optimized  
   
-#### Input: Added back a Column of Data -> 'NAME, 5 Layers - Input Layer(842 nodes), 3 Deep Layers(80/40/20 Nodes), Output Layer  
+#### Input: Added back a Column of Data -> 'NAME', 5 Layers - Input Layer(842 nodes), 3 Deep Layers(80/40/20 Nodes), Output Layer  
   
 ![trial model 3](Images/Trial3_Model.PNG)  
   
 #### Output:  
   
-**Accuracy: 80.2%    Loss: 48.3%**  
+$${\color{green}**Accuracy: 80.2%    Loss: 48.3%**}$$  
   
 ## Discussion
   
