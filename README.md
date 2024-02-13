@@ -57,7 +57,7 @@ Data Columns:
   
 #### Output:  
   
-$${\color{green}**Accuracy: 80.2%    Loss: 48.3%**}$$  
+$${\color{green}Accuracy: 80.2%    Loss: 48.3%}$$  
   
 ## Discussion
   
